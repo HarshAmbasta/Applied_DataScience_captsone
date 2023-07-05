@@ -1,7 +1,6 @@
-# Applied_DataScience_captsone
 # Applied Data Science Capstone
 <p align="center">
-  <img src="Images/Screenshot 2023-07-05 214420.png" width="1200">
+  <img src="10. Applied Data Science Capstone/Images/Screenshot 2023-07-05 214420.png" width="1200">
 </p>
 
 ## 📄 Summary
